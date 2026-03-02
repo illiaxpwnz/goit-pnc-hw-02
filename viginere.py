@@ -53,7 +53,7 @@ It is the spectator, and not life, that art really mirrors.
 Diversity of opinion about a work of art shows that the work is new, complex, vital. 
 When critics disagree the artist is in accord with himself. 
 We can forgive a man for making a useful thing as long as he does not admire it. 
-The only excuse for making a useless thing is that one admires it intensely. All art is quite useless
+The only excuse for making a useless thing is that one admires it intensely. All art is quite useless.
 """
 
 # Шифрування тексту
