@@ -1,5 +1,5 @@
 from collections import defaultdict
-import math
+import matр
 
 def kasiski_analysis(ciphertext, sequence_length=5):
     sequences = defaultdict(list)
